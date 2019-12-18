@@ -1,0 +1,12 @@
+program 
+  int x : y 
+  start
+    start
+      int w 
+      print << w 
+    stop
+    start
+      int w 
+      print << w 
+    stop 
+  stop

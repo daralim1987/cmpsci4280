@@ -1,0 +1,6 @@
+program 
+  int x : y : x
+  start
+    int z
+    print << 0
+  stop

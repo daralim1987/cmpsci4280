@@ -1,0 +1,17 @@
+program 
+  int x 
+  start
+    int x
+    start
+      int x
+      start
+        int x 
+        read >> x ;
+        print << x
+      stop 
+      read >> x ;
+      print << x
+    stop
+    read >> x ;
+    print << x
+  stop
